@@ -1,0 +1,25 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A SVG logo maker, created as a part of a coding bootcamp challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiZapollo/SVG-Logo-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiZapollo/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/HiZapollo/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.6.1",
+    "validate-color": "^2.2.4"
+  }
+}
