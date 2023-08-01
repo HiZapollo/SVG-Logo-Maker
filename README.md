@@ -14,7 +14,7 @@ To run the program, simply open the intergrated terminal and type 'npm start', t
 
 The video example below shows how this is done:
 
-[Example video]
+[Example video](https://github.com/HiZapollo/SVG-Logo-Maker/blob/main/assets/Challenge%2010%20recording.webm)
 
 ## Testing
 
