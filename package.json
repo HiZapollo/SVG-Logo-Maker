@@ -4,7 +4,8 @@
   "description": "A SVG logo maker, created as a part of a coding bootcamp challenge.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
